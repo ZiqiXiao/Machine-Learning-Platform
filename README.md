@@ -1,1 +1,1 @@
-# Machine-Learning-Platform
+# Machine-Learning-Platform-Django
